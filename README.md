@@ -1,5 +1,5 @@
 # Cyclistic Bike-share User Analysis
-edited on 07/06/2022
+edited on 07/06/2022  
 author: Yafeng Song
 ## Scenario
 Cyclistic is a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. (More information please check 'Case Study Information 1.pdf'). 
